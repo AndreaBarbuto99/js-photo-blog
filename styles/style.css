@@ -18,3 +18,12 @@ header {
     left: 180px;
     top: -10px;
 }
+
+.rot-div:hover{
+    transform: rotate(20deg);
+    transition: 0.5s;
+}
+
+.rot-div:hover .pos {
+    display: none;
+}
