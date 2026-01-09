@@ -13,3 +13,8 @@ main {
 header {
     background-image: url(/imgs/wall.png);
 }
+
+.pos {
+    left: 180px;
+    top: -10px;
+}
