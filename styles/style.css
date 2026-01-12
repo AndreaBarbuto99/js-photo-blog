@@ -22,7 +22,7 @@ header {
 .rot-div:hover {
     transform: rotate(10deg);
     transition: 0.5s;
-    
+
 }
 
 .rot-div:hover .pos {
@@ -31,11 +31,11 @@ header {
 
 .zoom-overlay {
     position: fixed;
-    top: 0; 
-    left: 0; 
-    right: 0; 
+    top: 0;
+    left: 0;
+    right: 0;
     bottom: 0;
-    background: rgba(0,0,0,0.80);
+    background: rgba(0, 0, 0, 0.80);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -44,8 +44,6 @@ header {
 }
 
 .zoom-overlay img {
-   width: 50%;
-   height: 80%; 
+    width: 50%;
+    height: 80%;
 }
-
-    
